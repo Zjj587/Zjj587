@@ -13,7 +13,7 @@
   <img src="https://badges.strrl.dev/repos/Zjj587?style=flat-square&logo=github">
 </a>
 
-Hi, I'm **Junjie Zhang (张骏杰)**, a self-motivated researcher with a deep interest in **robotics**. I hope to witness, and contribute to, the arrival of **Physical AGI**. My current research focuses on **multi-sensor fusion localization**, **UMI**, **sensor simulation**, and **data simulation**.
+Hi, I'm **Junjie Zhang (张骏杰)**, a self-motivated researcher with a deep interest in **robotics**. I hope to witness, and contribute to, the arrival of **Physical AGI**. My current research focuses on **multi-sensor fusion localization**, **UMI** and **data simulation**.
 
 Previously, I have interned at **Shanghai AI Lab**, **破壳机器人**, and **众擎机器人**, where I worked on robotics-related perception, localization, and system engineering problems.
 
@@ -48,7 +48,7 @@ Previously, I have interned at **Shanghai AI Lab**, **破壳机器人**, and **�
 
 - Robotics: &nbsp; ROS/ROS2, SLAM, VIO, LIO, calibration, multi-sensor synchronization, robot data pipelines
 - Sensors: &nbsp; Camera, LiDAR, IMU, wheel odometry, depth camera, motion capture systems
-- Simulation: &nbsp; Sensor simulation, data simulation, robotic simulation environments
+- Simulation: &nbsp; Sensor data simulation, Isaac Sim
 
 <h3> Featured Projects and Publications</h3>
 
