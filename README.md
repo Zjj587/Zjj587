@@ -1,4 +1,4 @@
-## Hi there, I'm Junjie Zhang (张骏杰), a robotics researcher and engineer.
+## Hi there, I'm Junjie Zhang, a robotics researcher and engineer.
 
 <h3> About Me</h3>
 
@@ -99,12 +99,6 @@ Previously, I have interned at **Shanghai AI Lab**, **破壳机器人**, and **�
 </tr>
 </tbody>
 </table>
-
-<h3> Internships</h3>
-
-- **Shanghai AI Lab**: robotics-related research and engineering.
-- **破壳机器人**: robot perception, localization, and system development.
-- **众擎机器人**: robotics engineering and embodied intelligence exploration.
 
 <h3> Contact</h3>
 
