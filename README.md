@@ -13,9 +13,9 @@
   <img src="https://badges.strrl.dev/repos/Zjj587?style=flat-square&logo=github">
 </a>
 
-Hi, I'm **Junjie Zhang (张骏杰)**, a self-motivated researcher with a deep interest in **robotics**. I hope to witness, and contribute to, the arrival of **Physical AGI**. My current research focuses on **multi-sensor fusion localization**, **UMI (Universal Manipulation Interface)**, **data simulation**, **VLA**, **WAM** and **JEPA**.
+Hi, I'm **Junjie Zhang (张骏杰)**, a self-motivated researcher with a deep interest in **robotics**. I hope to witness, and contribute to, the arrival of **Physical AGI**. My current research focuses on **multi-sensor fusion localization**, **UMI (Universal Manipulation Interface)**, **sensor data simulation**, **VLA**, **WAM** and **JEPA**.
 
-Previously, I have interned at **Shanghai AI Lab**, **PokeBot(破壳机器人)**, and **(众擎机器人)**, where I worked on robotics-related perception, localization, and system engineering problems.
+Previously, I have interned at **Shanghai AI Lab**, **PokeBot(破壳机器人)**, and **ENGINEAI(众擎机器人)**, where I worked on robotics-related perception, localization, and system engineering problems.
 
 <h3> Research Highlights</h3>
 
@@ -30,8 +30,8 @@ Previously, I have interned at **Shanghai AI Lab**, **PokeBot(破壳机器人)**
 - Multi-sensor Fusion SLAM and Localization
 - Visual-Inertial Odometry and LiDAR-Inertial Odometry
 - UMI and Robot Data Collection
-- Sensor Simulation and Data Simulation
-- Physical AGI and General-purpose Robot Intelligence
+- VLA, WAM and JEPA
+- Sensor data Simulation
 
 <h3> Tech Stack</h3>
 
@@ -46,9 +46,9 @@ Previously, I have interned at **Shanghai AI Lab**, **PokeBot(破壳机器人)**
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
-- Robotics: &nbsp; ROS/ROS2, SLAM, VIO, LIO, calibration, multi-sensor synchronization, robot data pipelines
+- Robotics: &nbsp; ROS/ROS2, SLAM, VIO, LIO, calibration, multi-sensor synchronization, robot data pipelines, VLA, WAM, JEPA
 - Sensors: &nbsp; Camera, LiDAR, IMU, wheel odometry, depth camera, motion capture systems
-- Simulation: &nbsp; Sensor data simulation, Isaac Sim
+- Simulation: &nbsp; Sensor data simulation, Isaac Sim, SAPIEN
 
 <h3> Featured Projects and Publications</h3>
 
