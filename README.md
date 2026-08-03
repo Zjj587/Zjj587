@@ -13,7 +13,7 @@
   <img src="https://badges.strrl.dev/repos/Zjj587?style=flat-square&logo=github">
 </a>
 
-Hi, I'm **Junjie Zhang (张骏杰)**, a self-motivated researcher with a deep interest in **robotics**. I hope to witness, and contribute to, the arrival of **Physical AGI**. My current research focuses on **multi-sensor fusion localization**, **UMI (Universal Manipulation Interface)**, **sensor data simulation**, **VLA**, **WAM** and **JEPA**.
+Hi, I'm **Junjie Zhang (张骏杰)**, a self-motivated researcher with a deep interest in **robotics**. I hope to witness, and contribute to, the arrival of **Physical AGI**. My current research focuses on **multi-sensor fusion localization**, **UMI (Universal Manipulation Interface)**, **Wholebody UMI**, sensor data simulation, VLA, WAM and JEPA.
 
 Previously, I have interned at **Shanghai AI Lab**, **PokeBot(破壳机器人)**, and **ENGINEAI(众擎机器人)**, where I worked on robotics-related perception, localization, and system engineering problems.
 
