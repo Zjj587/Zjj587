@@ -3,7 +3,6 @@
 <h3> About Me</h3>
 
 [![Email](https://img.shields.io/badge/Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:zhangjunjie587@gmail.com)
-![WeChat](https://img.shields.io/badge/WeChat-z13880545370-07C160?style=flat&logo=wechat&logoColor=white)
 [![Xiaohongshu](https://img.shields.io/badge/Xiaohongshu-red?style=flat&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/654cda6b0000000008003b9d)
 [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=flat&logo=bilibili&logoColor=white)](https://space.bilibili.com/266735709?spm_id_from=333.1007.0.0)
 <a href="https://github.com/Zjj587">
