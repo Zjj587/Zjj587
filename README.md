@@ -108,11 +108,3 @@ Previously, I have interned at **Shanghai AI Lab**, **PokeBot(破壳机器人)**
 </tr>
 </tbody>
 </table>
-
-<h3> Contact</h3>
-
-I am always happy to discuss robotics, SLAM, robot data collection, simulation, and Physical AGI.
-
-- Email: [zhangjunjie587@gmail.com](mailto:zhangjunjie587@gmail.com)
-- Xiaohongshu: [profile](https://www.xiaohongshu.com/user/profile/654cda6b0000000008003b9d)
-- Bilibili: [space](https://space.bilibili.com/266735709?spm_id_from=333.1007.0.0)
