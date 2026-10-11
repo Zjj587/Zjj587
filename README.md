@@ -1,4 +1,4 @@
-## Hi there, I'm Junjie Zhang, a robotics researcher and engineer.
+## Hi, I'm Junjie Zhang — a curious explorer and a pragmatic idealist in robotics.
 
 <h3> About Me</h3>
 
