@@ -36,8 +36,8 @@ Previously, I have interned at **Shanghai AI Lab**, **PokeBot(破壳机器人)**
 <h3> Current Interests</h3>
 
 - Active Vision for Robotic Manipulation
-- VLA, WAM, and JEPA
 - UMI and Robot Data Collection
+- Learning Representations and Dynamics for Robot Control
 - Multi-Sensor Fusion SLAM and Localization
 - Visual-Inertial Odometry and LiDAR-Inertial Odometry
 - Sensor Data Simulation
