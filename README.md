@@ -11,6 +11,9 @@
 <a href="https://github.com/Zjj587?tab=repositories">
   <img src="https://badges.strrl.dev/repos/Zjj587?style=flat-square&logo=github">
 </a>
+<a href="https://github.com/Zjj587?tab=repositories">
+  <img src="https://img.shields.io/github/stars/Zjj587?affiliations=OWNER&amp;style=flat-square&amp;logo=github&amp;label=Total%20Stars&amp;color=E3B341" alt="Total stars received by Zjj587's public repositories">
+</a>
 
 Hi, I'm **Junjie Zhang (张骏杰)**, a self-motivated researcher with a deep interest in **robotics**. I hope to witness, and contribute to, the arrival of **Physical AGI**. My current research focuses on **multi-sensor fusion localization**, **UMI (Universal Manipulation Interface)**, **Wholebody UMI**, sensor data simulation, VLA, WAM and JEPA.
 
