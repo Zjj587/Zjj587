@@ -35,11 +35,12 @@ Previously, I have interned at **Shanghai AI Lab**, **PokeBot(破壳机器人)**
 
 <h3> Current Interests</h3>
 
-- Multi-sensor Fusion SLAM and Localization
-- Visual-Inertial Odometry and LiDAR-Inertial Odometry
+- Active Vision for Robotic Manipulation
+- VLA, WAM, and JEPA
 - UMI and Robot Data Collection
-- VLA, WAM and JEPA
-- Sensor data Simulation
+- Multi-Sensor Fusion SLAM and Localization
+- Visual-Inertial Odometry and LiDAR-Inertial Odometry
+- Sensor Data Simulation
 
 <h3> Tech Stack</h3>
 
