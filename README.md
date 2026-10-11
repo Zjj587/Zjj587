@@ -25,6 +25,14 @@ Hi, I'm **Junjie Zhang (张骏杰)**, a self-motivated researcher with a deep in
 
 Previously, I have interned at **Shanghai AI Lab**, **PokeBot(破壳机器人)**, and **ENGINEAI(众擎机器人)**, where I worked on robotics-related perception, localization, and system engineering problems.
 
+<h3> Previous Research</h3>
+
+- 2026 [**NIDAR**](https://nidar-web.github.io/) is accepted to **IROS 2026**. I am the **first author**.
+- 2026 [**Ultra-Fusion**](https://github.com/sjtuyinjie/Ultra-Fusion/) is released as a multi-sensor fusion SLAM system. I am the **second author**.
+- 2025 [**Ground-Fusion++**](https://github.com/sjtuyinjie/Ground-Fusion2) and [**M3DGR**](https://github.com/sjtuyinjie/M3DGR), a robust ground-robot SLAM framework and multi-sensor dataset, are accepted to **IROS 2025**. I am a **co-first author** and a **major contributor to the repository code**. [Paper](https://arxiv.org/abs/2507.08364)
+- 2025 [**APGC-LVIW**](https://journals.sagepub.com/doi/10.1177/00202940251407204), a LiDAR-visual-inertial-wheel SLAM system with adaptive planar geometric constraints, is published in **Measurement and Control**. I am a **co-author**.
+- 2023 [**Structure and Gait Design of an Eight-legged Bionic Robot**](https://ieeexplore.ieee.org/abstract/document/10428599) is published at **ISRIMT 2023**. I am the **first author**.
+
 <h3> Current Interests</h3>
 
 - Active Vision for Robotic Manipulation
@@ -50,53 +58,3 @@ Previously, I have interned at **Shanghai AI Lab**, **PokeBot(破壳机器人)**
 - Robotics: &nbsp; ROS/ROS2, SLAM, VIO, LIO, calibration, multi-sensor synchronization, robot data pipelines, VLA, WAM, JEPA
 - Sensors: &nbsp; Camera, LiDAR, IMU, wheel odometry, depth camera, motion capture systems
 - Simulation: &nbsp; Sensor data simulation, Isaac Sim, SAPIEN
-
-<h3> Previous Research</h3>
-
-<table class="table table-striped table-bordered table-vcenter">
-<tbody>
-<tr><th>Title</th><th>Venue / Status</th><th>My Role</th><th>Links</th></tr>
-<tr>
-    <td><b>NIDAR</b></td>
-    <td>IROS 2026</td>
-    <td>First author</td>
-    <td><a href="https://nidar-web.github.io/" target="_blank">Project</a></td>
-</tr>
-<tr>
-    <td><b>Ground-Fusion++</b><br>Towards Robust Sensor-Fusion Ground SLAM: A Comprehensive Benchmark and A Resilient Framework</td>
-    <td>IROS 2025</td>
-    <td>Co-first author; major repository code contributor</td>
-    <td>
-      <a href="https://github.com/sjtuyinjie/Ground-Fusion2" target="_blank">Code</a> |
-      <a href="https://arxiv.org/abs/2507.08364" target="_blank">Paper</a>
-    </td>
-</tr>
-<tr>
-    <td><b>M3DGR</b><br>A multi-sensor dataset and benchmark for robust ground robot SLAM</td>
-    <td>IROS 2025</td>
-    <td>Co-first author; major repository code contributor</td>
-    <td>
-      <a href="https://github.com/sjtuyinjie/M3DGR" target="_blank">Code</a> |
-      <a href="https://arxiv.org/abs/2507.08364" target="_blank">Paper</a>
-    </td>
-</tr>
-<tr>
-    <td><b>Ultra-Fusion</b></td>
-    <td>Released in 2026</td>
-    <td>Second author</td>
-    <td><a href="https://github.com/sjtuyinjie/Ultra-Fusion/" target="_blank">Code</a></td>
-</tr>
-<tr>
-    <td><b>APGC-LVIW</b><br>LiDAR-visual-inertial-wheel SLAM with adaptive planar geometric constraints</td>
-    <td>Measurement and Control, 2025</td>
-    <td>Co-author</td>
-    <td><a href="https://journals.sagepub.com/doi/10.1177/00202940251407204" target="_blank">Paper</a></td>
-</tr>
-<tr>
-    <td><b>Structure and Gait Design of an Eight-legged Bionic Robot</b></td>
-    <td>ISRIMT 2023</td>
-    <td>First author</td>
-    <td><a href="https://ieeexplore.ieee.org/abstract/document/10428599" target="_blank">Paper</a></td>
-</tr>
-</tbody>
-</table>
