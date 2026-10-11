@@ -2,9 +2,6 @@
 
 <h3> About Me</h3>
 
-[![Email](https://img.shields.io/badge/Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:zhangjunjie587@gmail.com)
-[![Xiaohongshu](https://img.shields.io/badge/Xiaohongshu-red?style=flat&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/654cda6b0000000008003b9d)
-[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=flat&logo=bilibili&logoColor=white)](https://space.bilibili.com/266735709?spm_id_from=333.1007.0.0)
 <a href="https://github.com/Zjj587">
   <img src="https://badges.strrl.dev/years/Zjj587?style=flat-square&logo=github">
 </a>
@@ -12,7 +9,16 @@
   <img src="https://badges.strrl.dev/repos/Zjj587?style=flat-square&logo=github">
 </a>
 <a href="https://github.com/Zjj587?tab=repositories">
-  <img src="https://img.shields.io/github/stars/Zjj587?affiliations=OWNER&amp;style=flat-square&amp;logo=github&amp;label=Total%20Stars&amp;color=E3B341" alt="Total stars received by Zjj587's public repositories">
+  <img src="https://img.shields.io/github/stars/Zjj587?affiliations=OWNER%2CCOLLABORATOR&amp;style=flat-square&amp;logo=github&amp;label=Total%20Stars&amp;color=E3B341" alt="Total stars received by public repositories owned by or collaborating with Zjj587">
+</a>
+<a href="mailto:zhangjunjie587@gmail.com">
+  <img src="https://img.shields.io/badge/Email-c14438?style=flat&amp;logo=gmail&amp;logoColor=white" alt="Email">
+</a>
+<a href="https://www.xiaohongshu.com/user/profile/654cda6b0000000008003b9d">
+  <img src="https://img.shields.io/badge/Xiaohongshu-red?style=flat&amp;logo=xiaohongshu&amp;logoColor=white" alt="Xiaohongshu">
+</a>
+<a href="https://space.bilibili.com/266735709?spm_id_from=333.1007.0.0">
+  <img src="https://img.shields.io/badge/Bilibili-00A1D6?style=flat&amp;logo=bilibili&amp;logoColor=white" alt="Bilibili">
 </a>
 
 Hi, I'm **Junjie Zhang (张骏杰)**, a self-motivated researcher with a deep interest in **robotics**. I hope to witness, and contribute to, the arrival of **Physical AGI**. My current research focuses on **multi-sensor fusion localization**, **UMI (Universal Manipulation Interface)**, **Wholebody UMI**, sensor data simulation, VLA, WAM and JEPA.
