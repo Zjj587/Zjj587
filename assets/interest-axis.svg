@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="180" viewBox="0 0 48 180" role="img" aria-labelledby="title description">
+  <title id="title">Relative interest</title>
+  <desc id="description">Interest is higher toward the top of the existing topic list and lower toward the bottom. No numerical scores are assigned.</desc>
+  <defs>
+    <linearGradient id="interest" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7C3AED"/>
+      <stop offset="0.45" stop-color="#628BF1"/>
+      <stop offset="1" stop-color="#DDE7F8"/>
+    </linearGradient>
+  </defs>
+  <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" text-anchor="middle" fill="#68758A">
+    <text x="27" y="12" font-size="9">Higher</text>
+    <text x="27" y="176" font-size="9">Lower</text>
+    <text x="11" y="90" font-size="10" transform="rotate(-90 11 90)">Interest</text>
+  </g>
+  <rect x="29" y="23" width="9" height="138" rx="4.5" fill="url(#interest)"/>
+  <path d="M30 20 L33.5 15 L37 20" fill="none" stroke="#7C3AED" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

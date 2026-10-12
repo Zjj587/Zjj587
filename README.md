@@ -35,12 +35,19 @@ Previously, I have interned at **Shanghai AI Lab**, **PokeBot(破壳机器人)**
 
 <h3> Current Interests</h3>
 
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/interest-axis-mobile.svg">
+  <img align="left" src="assets/interest-axis.svg" width="48" hspace="10" alt="Relative interest: higher toward the top, lower toward the bottom.">
+</picture>
+
 - Active Vision for Robotic Manipulation
 - UMI and Robot Data Collection
 - Learning Representations and Dynamics for Robot Control
 - Multi-Sensor Fusion SLAM and Localization
 - Visual-Inertial Odometry and LiDAR-Inertial Odometry
 - Sensor Data Simulation
+
+<br clear="left">
 
 <h3> Tech Stack</h3>
 
