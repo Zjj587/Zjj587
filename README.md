@@ -23,11 +23,9 @@
 
 Hi, I'm **Junjie Zhang (张骏杰)**, a self-motivated researcher with a deep interest in **robotics**. I hope to witness, and contribute to, the arrival of **Physical AGI**.
 
-I’m a final-year master’s student at Chongqing University.
-
 Previously, I have interned at **Shanghai AI Lab**, **PokeBot(破壳机器人)**, and **ENGINEAI(众擎机器人)**, where I worked on UMI (Universal Manipulation Interface) and whole-body UMI.
 
-I’m open to robotics research and engineering roles, PhD opportunities, and early-stage robotics ventures.
+I’m a master’s student at Chongqing University, expected to graduate in 2027. I’m open to robotics research and engineering roles and PhD opportunities, and I’m looking for co-founders to build a robotics startup.
 
 <h3> Previous Research</h3>
 
