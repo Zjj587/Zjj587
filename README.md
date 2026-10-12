@@ -25,14 +25,6 @@ Hi, I'm **Junjie Zhang (张骏杰)**, a self-motivated researcher with a deep in
 
 Previously, I have interned at **Shanghai AI Lab**, **PokeBot(破壳机器人)**, and **ENGINEAI(众擎机器人)**, where I worked on robotics-related perception, localization, and system engineering problems.
 
-<h3> Previous Research</h3>
-
-- 2026 [**NIDAR**](https://nidar-web.github.io/) is accepted to **IROS 2026**. I am the **first author**.
-- 2026 [**Ultra-Fusion**](https://github.com/sjtuyinjie/Ultra-Fusion/) is released as a multi-sensor fusion SLAM system. I am the **second author**.
-- 2025 [**Ground-Fusion++**](https://github.com/sjtuyinjie/Ground-Fusion2) and [**M3DGR**](https://github.com/sjtuyinjie/M3DGR), a robust ground-robot SLAM framework and multi-sensor dataset, are accepted to **IROS 2025**. I am a **co-first author** and a **major contributor to the repository code**. [Paper](https://arxiv.org/abs/2507.08364)
-- 2025 [**APGC-LVIW**](https://journals.sagepub.com/doi/10.1177/00202940251407204), a LiDAR-visual-inertial-wheel SLAM system with adaptive planar geometric constraints, is published in **Measurement and Control**. I am a **co-author**.
-- 2023 [**Structure and Gait Design of an Eight-legged Bionic Robot**](https://ieeexplore.ieee.org/abstract/document/10428599) is published at **ISRIMT 2023**. I am the **first author**.
-
 <h3> Current Interests</h3>
 
 <picture>
@@ -48,6 +40,14 @@ Previously, I have interned at **Shanghai AI Lab**, **PokeBot(破壳机器人)**
 - Sensor Data Simulation
 
 <br clear="left">
+
+<h3> Previous Research</h3>
+
+- 2026 [**NIDAR**](https://nidar-web.github.io/) is accepted to **IROS 2026**. I am the **first author**.
+- 2026 [**Ultra-Fusion**](https://github.com/sjtuyinjie/Ultra-Fusion/) is released as a multi-sensor fusion SLAM system. I am the **second author**.
+- 2025 [**Ground-Fusion++**](https://github.com/sjtuyinjie/Ground-Fusion2) and [**M3DGR**](https://github.com/sjtuyinjie/M3DGR), a robust ground-robot SLAM framework and multi-sensor dataset, are accepted to **IROS 2025**. I am a **co-first author** and a **major contributor to the repository code**. [Paper](https://arxiv.org/abs/2507.08364)
+- 2025 [**APGC-LVIW**](https://journals.sagepub.com/doi/10.1177/00202940251407204), a LiDAR-visual-inertial-wheel SLAM system with adaptive planar geometric constraints, is published in **Measurement and Control**. I am a **co-author**.
+- 2023 [**Structure and Gait Design of an Eight-legged Bionic Robot**](https://ieeexplore.ieee.org/abstract/document/10428599) is published at **ISRIMT 2023**. I am the **first author**.
 
 <h3> Tech Stack</h3>
 
