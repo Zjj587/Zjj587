@@ -39,7 +39,7 @@ I’m a master’s student at Chongqing University, expected to graduate in 2027
 
 <picture>
   <source media="(max-width: 600px)" srcset="assets/interest-axis-mobile.svg">
-  <img align="left" src="assets/interest-axis.svg?interest-count=7" width="14" hspace="4" alt="Relative interest: higher toward the top, lower toward the bottom.">
+  <img align="left" src="https://raw.githubusercontent.com/Zjj587/Zjj587/3f274db602d77438be22c79d5cddefbd902bfd2d/assets/interest-axis.svg" width="14" hspace="4" alt="Relative interest: higher toward the top, lower toward the bottom.">
 </picture>
 
 - Active Vision for Robotic Manipulation
