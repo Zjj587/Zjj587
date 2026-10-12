@@ -21,9 +21,13 @@
   <img src="https://img.shields.io/badge/Bilibili-00A1D6?style=flat&amp;logo=bilibili&amp;logoColor=white" alt="Bilibili">
 </a>
 
-Hi, I'm **Junjie Zhang (张骏杰)**, a self-motivated researcher with a deep interest in **robotics**. I hope to witness, and contribute to, the arrival of **Physical AGI**. My current research focuses on **multi-sensor fusion localization**, **UMI (Universal Manipulation Interface)**, **Wholebody UMI**, sensor data simulation, VLA, WAM and JEPA.
+Hi, I'm **Junjie Zhang (张骏杰)**, a self-motivated researcher with a deep interest in **robotics**. I hope to witness, and contribute to, the arrival of **Physical AGI**.
+
+I’m a final-year master’s student at Chongqing University.
 
 Previously, I have interned at **Shanghai AI Lab**, **PokeBot(破壳机器人)**, and **ENGINEAI(众擎机器人)**, where I worked on robotics-related perception, localization, and system engineering problems.
+
+I’m open to robotics research and engineering roles, PhD opportunities, and early-stage robotics ventures.
 
 <h3> Previous Research</h3>
 
