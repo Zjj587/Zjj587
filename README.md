@@ -27,9 +27,9 @@ Previously, I have interned at **Shanghai AI Lab**, **PokeBot(破壳机器人)**
 
 <h3> Previous Research</h3>
 
-- [**NIDAR**](https://nidar-web.github.io/) is accepted to **IROS 2026**.
-- [**Ultra-Fusion**](https://github.com/sjtuyinjie/Ultra-Fusion/) is released as a multi-sensor fusion SLAM system.
-- [**Ground-Fusion++**](https://github.com/sjtuyinjie/Ground-Fusion2) and [**M3DGR**](https://github.com/sjtuyinjie/M3DGR), a robust ground-robot SLAM framework and multi-sensor dataset, are accepted to **IROS 2025**.
+- Cross-modal LiDAR intensity simulation framework: [**NIDAR**](https://nidar-web.github.io/).
+- Robust multi-sensor fusion SLAM framework: [**Ultra-Fusion**](https://github.com/sjtuyinjie/Ultra-Fusion/).
+- Robust ground-robot SLAM framework and multi-sensor dataset: [**Ground-Fusion++**](https://github.com/sjtuyinjie/Ground-Fusion2) and [**M3DGR**](https://github.com/sjtuyinjie/M3DGR).
 - [More research…](https://zjj587.github.io/)
 
 <h3> Current Interests</h3>
