@@ -10,5 +10,4 @@
   </defs>
 
   <rect x="29" y="23" width="9" height="242" rx="4.5" fill="url(#interest)"/>
-  <path d="M30 20 L33.5 15 L37 20" fill="none" stroke="#7C3AED" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
