@@ -43,6 +43,7 @@ I’m a master’s student at Chongqing University, expected to graduate in 2027
 </picture>
 
 - Active Vision for Robotic Manipulation
+- Bio-inspired Robotics
 - UMI and Robot Data Collection
 - Learning Representations and Dynamics for Robot Control
 - Multi-Sensor Fusion SLAM and Localization
