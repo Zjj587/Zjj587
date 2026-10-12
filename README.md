@@ -37,7 +37,7 @@ Previously, I have interned at **Shanghai AI Lab**, **PokeBot(破壳机器人)**
 
 <picture>
   <source media="(max-width: 600px)" srcset="assets/interest-axis-mobile.svg">
-  <img align="left" src="assets/interest-axis.svg" width="48" hspace="10" alt="Relative interest: higher toward the top, lower toward the bottom.">
+  <img align="left" src="assets/interest-axis.svg" width="14" hspace="4" alt="Relative interest: higher toward the top, lower toward the bottom.">
 </picture>
 
 - Active Vision for Robotic Manipulation
