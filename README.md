@@ -27,6 +27,7 @@ Previously, I have interned at **Shanghai AI Lab**, **PokeBot(破壳机器人)**
 
 <h3> Previous Research</h3>
 
+- Robotic manipulation benchmark and millimeter-level UMI localization system: [**MILD and AprilVINS**](https://arxiv.org/abs/2610.09857).
 - Cross-modal LiDAR intensity simulation framework: [**NIDAR**](https://nidar-web.github.io/).(IROS2026)
 - Robust multi-sensor fusion SLAM framework: [**Ultra-Fusion**](https://github.com/sjtuyinjie/Ultra-Fusion/).
 - Robust ground-robot SLAM framework and multi-sensor dataset: [**Ground-Fusion++**](https://github.com/sjtuyinjie/Ground-Fusion2) and [**M3DGR**](https://github.com/sjtuyinjie/M3DGR).(IROS2025)
