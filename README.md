@@ -25,7 +25,7 @@ Hi, I'm **Junjie Zhang (张骏杰)**, a self-motivated researcher with a deep in
 
 I’m a final-year master’s student at Chongqing University.
 
-Previously, I have interned at **Shanghai AI Lab**, **PokeBot(破壳机器人)**, and **ENGINEAI(众擎机器人)**, where I worked on robotics-related perception, localization, and system engineering problems.
+Previously, I have interned at **Shanghai AI Lab**, **PokeBot(破壳机器人)**, and **ENGINEAI(众擎机器人)**, where I worked on UMI (Universal Manipulation Interface) and whole-body UMI.
 
 I’m open to robotics research and engineering roles, PhD opportunities, and early-stage robotics ventures.
 
